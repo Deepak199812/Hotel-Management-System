@@ -11,4 +11,4 @@ EXPOSE 3000
 
 COPY . .
 
-CMD [ "node", "app.js" ]
+CMD [ "node", "HotelManagementApplication.java" ]
